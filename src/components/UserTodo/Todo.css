@@ -1,0 +1,42 @@
+.todoform {
+  width: 600px;
+  margin: 40px auto;
+  max-width: 90%;
+  border: 1px solid rgb(248, 245, 245);
+  border-radius: 15px;
+  padding: 40px 40px;
+  box-shadow: 3px 5px 15px rgb(212, 210, 210);
+}
+.todoinput {
+  width: 100%;
+  border: 1px solid #6b103b;
+  border-radius: 5px;
+  height: 40px;
+}
+.inputbutton {
+  background-color: #9d3c72;
+  color: white;
+  border: 1px solid rgb(248, 245, 245);
+  margin: auto;
+  border-radius: 5px;
+  padding: 7px;
+}
+.todoButton {
+  display: flex;
+  justify-content: center;
+}
+.show {
+  display: flex;
+  justify-content: space-between;
+}
+.tButton {
+  background-color: #9d3c72;
+  color: white;
+  border: 1px solid rgb(248, 245, 245);
+  border-radius: 5px;
+}
+.checkbox {
+  height: 15px;
+  width: 15px;
+  margin: 5px;
+}
